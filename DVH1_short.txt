@@ -1,0 +1,166 @@
+﻿Patient Name         : Patient, Prostate1
+Patient ID           : 11111111
+Comment              : DVHs for one plan
+Date                 : Thursday, June 06, 2019 8:53:27 PM
+Exported by          : SysAdmin
+Type                 : Cumulative Dose Volume Histogram
+Description          : The cumulative DVH displays the percentage (relative)
+                       or volume (absolute) of structures that receive a dose
+                       equal to or greater than a given dose.
+
+Plan: 01_Prostate_r
+Course: 01
+Plan Status: Planning Approved Wednesday, January 30, 2019 8:09:05 AM by XXXXX
+Prescribed dose [Gy]: 78.000
+% for dose (%): 100.0
+
+Structure: Rectal Wall
+Approval Status: Approved
+Plan: 01_Prostate_r
+Course: 01
+Volume [cm³]: 21.7
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 100.0
+Min Dose [%]: 1.9
+Max Dose [%]: 97.2
+Mean Dose [%]: 52.8
+Modal Dose [%]: 3.2
+Median Dose [%]: 51.8
+STD [%]: 30.3
+Equiv. Sphere Diam. [cm]: 3.5
+Conformity Index: N/A
+Gradient Measure [cm]: N/A
+
+Relative dose [%]           Dose [Gy] Ratio of Total Structure Volume [%]
+                0                   0                       100
+               10                 7.8                   83.6145
+               20                15.6                   79.5203
+               30                23.4                   76.8293
+               40                31.2                   71.0453
+               50                  39                   52.2919
+               60                46.8                   41.5127
+               70                54.6                   33.3439
+               80                62.4                   26.3351
+               90                70.2                   16.3178
+              100                  78                         0
+
+Structure: PTV-Rectum
+Approval Status: Approved
+Plan: 01_Prostate_r
+Course: 01
+Volume [cm³]: 96.3
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 100.0
+Min Dose [%]: 85.5
+Max Dose [%]: 105.9
+Mean Dose [%]: 100.0
+Modal Dose [%]: 100.2
+Median Dose [%]: 100.4
+STD [%]: 1.9
+Equiv. Sphere Diam. [cm]: 5.7
+Conformity Index: 0.64
+Gradient Measure [cm]: 1.85
+
+Relative dose [%]           Dose [Gy] Ratio of Total Structure Volume [%]
+                0                   0                       100
+               10                 7.8                       100
+               20                15.6                       100
+               30                23.4                       100
+               40                31.2                       100
+               50                  39                       100
+               60                46.8                       100
+               70                54.6                       100
+               80                62.4                       100
+               90                70.2                   99.9773
+              100                  78                   61.9731
+
+Structure: PTV
+Approval Status: Approved
+Plan: 01_Prostate_r
+Course: 01
+Volume [cm³]: 110.3
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 100.0
+Min Dose [%]: 57.1
+Max Dose [%]: 105.9
+Mean Dose [%]: 98.1
+Modal Dose [%]: 100.2
+Median Dose [%]: 100.2
+STD [%]: 6.0
+Equiv. Sphere Diam. [cm]: 5.9
+Conformity Index: N/A
+Gradient Measure [cm]: N/A
+
+Relative dose [%]           Dose [Gy] Ratio of Total Structure Volume [%]
+                0                   0                       100
+               10                 7.8                       100
+               20                15.6                       100
+               30                23.4                       100
+               40                31.2                       100
+               50                  39                       100
+               60                46.8                     99.98
+               70                54.6                   99.2351
+               80                62.4                   96.8211
+               90                70.2                   91.8858
+              100                  78                   54.1203
+
+Structure: CTV
+Approval Status: Approved
+Plan: 01_Prostate_r
+Course: 01
+Volume [cm³]: 27.2
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 100.1
+Min Dose [%]: 94.7
+Max Dose [%]: 103.8
+Mean Dose [%]: 100.1
+Modal Dose [%]: 100.2
+Median Dose [%]: 100.2
+STD [%]: 0.9
+Equiv. Sphere Diam. [cm]: 3.7
+Conformity Index: N/A
+Gradient Measure [cm]: N/A
+
+Relative dose [%]           Dose [Gy] Ratio of Total Structure Volume [%]
+                0                   0                       100
+               10                 7.8                       100
+               20                15.6                       100
+               30                23.4                       100
+               40                31.2                       100
+               50                  39                       100
+               60                46.8                       100
+               70                54.6                       100
+               80                62.4                       100
+               90                70.2                       100
+              100                  78                   65.3898
+
+Structure: Bladder Wall
+Approval Status: Approved
+Plan: 01_Prostate_r
+Course: 01
+Volume [cm³]: 99.6
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 100.1
+Min Dose [%]: 1.2
+Max Dose [%]: 104.0
+Mean Dose [%]: 33.3
+Modal Dose [%]: 3.1
+Median Dose [%]: 19.4
+STD [%]: 35.7
+Equiv. Sphere Diam. [cm]: 5.8
+Conformity Index: N/A
+Gradient Measure [cm]: N/A
+
+Relative dose [%]           Dose [Gy] Ratio of Total Structure Volume [%]
+                0                   0                       100
+               10                 7.8                   54.4945
+               20                15.6                   49.7493
+               30                23.4                   42.4695
+               40                31.2                   33.1478
+               50                  39                   27.1507
+               60                46.8                   22.9079
+               70                54.6                   20.0507
+               80                62.4                   17.8288
+               90                70.2                   15.6054
+              100                  78                   10.2663
+
